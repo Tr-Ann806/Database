@@ -1,0 +1,709 @@
+ID	Field1	User name	Room No	Equipment type	Serial number  / Emboss	Condition /Remarks	Year of Purchase	All-In-One PC	Laptop	System Unit	Monitor	Network Printer	MFP Printer	Scanner	UPS	Wired Switches	Wireless Switches	Photocopier	IP Phones	woofer
+1				Ministry of Communications ICT Inventory up to MAY,2018																
+2	No.	User name	 Room No	Equipment type	Serial number  / Emboss	Condition /Remarks	Year of Purchase	All-In-One PC	 Laptop	System Unit	 Monitor	Network Printer	MFP Printer	Scanner	UPS	Wired Switches	Wireless Switches 	Photocopier	IP Phones	woofer
+3		Sixth Floor North Wing																		
+4	1	Ursula Owusu-Ekuful	2	HP Compaq pro 6305 MT	6CR4079FM8	GOOD	2016			1										
+5				HP Pro display p201	6CM40422Y2	GOOD	2016				1									
+6				Hp color laserjet M553	JPBVJ4FOLC	GOOD	2017					1								
+7				Hp scanjet pro 2500 fi	CN61AA032	GOOD	2017							1						
+8		Assigned No 1001		Polycom IP phone VVX201	0004F2BEFE30	GOOD	2017												1	
+9				Samsung Woofer	OBH914MJ300041W	GOOD	2017													1
+10		Assigned No 5600		Huawei IP Phone MC850	101B543DD1BD	GOOD	2017													
+11	2	Stallone Nyarko	3A	HP Color jet CM 2320nf MFP	CNFTB3PJD0	GOOD	2014													
+12				HP Pavilion (all-in-one)	8CC61808M2	GOOD	2017	1												
+13		Assigned No 5601		Polycom IP phone VVX201	64167F802921	GOOD	2017												1	
+14				Canon image runner 2545i	(21)PCP01251	FAULTY	2016							1						
+15				HP Laserjet CP1525n Color Printer	CNCF267417	FAULTY	2014													
+16				UPS (APC)	3S1622X01985	GOOD									1					
+17	3	Anastasia Marfo	3B	Canon super G3	HL1-0543	FAULTY												1		
+18				HP Pavilion (all-in-one)	8CC6361CTM	GOOD	2017	1												
+19				Hp scanjet pro 2500 fi	CN759A10Q0	GOOD	2017							1						
+20				Hp laserjet CP1025nw	CNF5Q13663	GOOD	2016						1							
+21				UPS (APC)	3S1622X01968										1					
+22		Assigned No. 6465		Huawei IP Phone MC850	101B543DD1C4	GOOD	2018												1	
+23	4	George Andah	4	Samsung Woofer	OBH914MJ300240J	GOOD	2017													1
+24				HP Laser jet p2055x	CNCO190020P	Good														
+25		Assigned No. 5602		Huawei IP Phone MC850	101B543DD1A2		2018													
+26		Mabel Yirenkyi	5	Lenovo Monitor	V3A2739	GOOD	2014				1									
+27	5			lenovo thinkcenter system unit	PBPRAVA	GOOD	2014			1										
+28				Hp scanjet pro 2500 fi	CN759A10W2	GOOD	2017							1						
+29				HP Laser jet p2055x	CNCO190020P	Good	2014					1								
+30		Assigned No 5603		Polycom IP phone VVX201	64167F8027FF		2017												1	
+31				UPS (Mercury)	110923E100N02784		2017								1					
+32		Network		Wireless Access Device			2017										1			
+33																				
+34	6	Vincent Odotei Sowah	8	Samsung Woofer	OBH914MJ300207J	GOOD	2017													1
+35		Assigned No. 5604		Polycom IP phone VVX201	0004F2D28324														1	
+36		Stella Addo	7	HP 202G1 MT	6CR421562R	Good	2017			1										
+37				HP Monitor (HPVI97)	3CQ6400NWV	Good	2017				1									
+38				HP Laserjet Pro M402dn	PHCND15484	GOOD	2017						1							
+39				HP Scanjet Pro 2500f1	CN759A10HS	GOOD	2017							1						
+40		Assigned No. 5630		Polycom IP phone VVX201	64167F80282B	Good	2017												1	
+41		Research Assistant		Hp 500B MT System	CNC1026Q9	GOOD	2014			1										
+42				HP 520319 Monitor	3Q048P4KX	GOOD	2014				1									
+43																				
+44		Joan Ashong	15	Lenovo Monitor	V394791	GOOD	2014				1									
+45				HP Pavilion system Unit	MXY9440213	GOOD				1										
+46		Assigned No 5679		Polycom IP phone VVX201	64167F803F92		2017												1	
+47																				
+48																				
+49		Sixth Floor East Wing																		
+50		Frank Kofi Gyasi	14		CNC-0C2XM874445-1AD-A9C5	Good	2014				1									
+51				Lenovo Thinkcenter system unit	PBREDPY	Good	2014			1										
+52				HP laserjet 1536dnf MP		Good	2014						1							
+53		Assigned No. 5677		Polycom IP phone VVX201	64167F803F2E	Good	2017												1	
+54																				
+55		Kennedy Kofitse	14	Lenovo Monitor	V3A2417	Good	2014				1									
+56				Lenovo Thinkcenter system unit	PBREVCK	Good	2014			1										
+57		Rack/ Confidential Registry	14	Huawei Wired Switches												3				
+58																				
+59		Valerie Hudson	16	HP 202 G1 MT	6CR42155ZX	Good	2017			1										
+60				HP V197 Monitor	3CQ6400QR5	Good	2017				1									
+61				Hp Laserjet M2727NF	CNDT84QGGT	GOOD	2016													
+62		Assigned No. 5614	16	Polycom IP phone VVX201	64167F803ECE	Good	2017												1	
+63																				
+64																				
+65		Yahaya Issah	22	HP Monitor		Good					1									
+66				HP System Unit		Good				1										
+67				HP Laser jet 500 Color M552		Good							1							
+68				HP Scanjet		Good								1						
+69		Assigned No 5656		Huawei IP Phone MC850																
+70		Shine Ameko	23	Lenovo Monitor	V3A231225AO-AF1	Good	2014				1									
+71				Lenovo Thinkcenter system unit	PBREDRF	Good	2014			1										
+72				HP Laser jet 1536dnf MFP	CNF8F719HZ	Good	2014						1							
+73				Hp Scanjet 	CNHXC98082	Good								1						
+74		Assigned No. 5671/5611		Polycom IP phone VVX201	64167F80276F	Good	2017												1	
+75		Network /CCTV		Huawei Wired Switch												2				
+76		Desmond Boateng	18B	Lenovo Monitor	V3A1376	Good	2014				1									
+77				Lenovo Thinkcenter system unit	PBPRAPB	Good	2014			1										
+78				HP Laser jet 1536dnf MFP	CNF8F719J2	Good	2014					1								
+79		Assigned No 5639		Huawei IP Phone MC850	101B543DD1C5	Good	2017													
+80																				
+81		Director Post	24	HP Laserjet M402dn	PHCND15492	Good	2017					1								
+82		Assigned No. 5608		Polycom IP phone VVX201	64167F8028CE	Good	2017												1	
+83																				
+84		Mercy Martey	18A	HP monitor	CN6015PY74	Good	2014				1									
+85				HP Pro System Unit	SGH026Q9FT	Good	2014			1										
+86				hp laserjet 	CNCKJ90019	Good	2014						1							
+87				HP Scanjet 5590	CN03QVH05H	GOOD	2016							1						
+88		Assigned No 5680		Polycom IP phone VVX201	64167F8028CE	Good	2017												1	
+89		Gifty A Bayenlah	33	Hp Laserjet P2055dnf	CNCKJ900919	Good					1									
+90				HP LE185w monitor	CNC015PYQ3	GOOD	2017													
+91				HP 2000 MT System Unit	SGH026Q9HX	GOOD	2014													
+92											1									
+93		Evelyn N O Lamptey	21A	HP Pro 2000  system unit	USH54800KK	Good				1										
+94				HP Laserjet M402dn	PHCND15290	GOOD	2017						1							
+95		Assigned No 5676		Polycom IP phone VVX201	64167F8027B3	Good	2017												1	
+96																				
+97		Kwasi A Tabi 	21B	Lenovo Monitor	V394811258-AF1	Good	2014				1									
+98				Lenovo Thinkcenter system unit	PBPYDBA	Good	2014			1										
+99		Assigned No 5607		Huawei IP Phone MC850	101B543DD16B	Good	2017												1	
+100				HP Color Laserjet Enterprise M553	JPBVJ4FOL9							1								
+101		Joseph Tetteh	19 B	HP LE1901w monitor							1									
+102				HP Laserjet 500 Color M551								1								
+103				HP Pavilion (all-in-one)	4UV5350KH6	Good	2017	1												
+104				UPS	3S1622X01967	Good	2017								1					
+105		Assigned No. 5626		Huawei IP Phone MC850															1	
+106		Emelia Amaning	19A	HP Monitor	CNC144PB02	Good	2014				1									
+107				Lenovo Thinkcenter system unit	PBPYDBA	Good	2014			1										
+108				HP Laserjet 1566 MFP dnf	CNF8F719JM	Good	2014						1							
+109		Assigned No. 5681		Polycom IP phone VVX201	64167F8027F3	Good	2017												1	
+110		Wireless 															1			
+111		IT 	17	Lenovo Monitor	V3948342580-AF1	Good	2014				1									
+112										1										
+113																				
+114		Fifth Floor North Wing																		
+115		E-Transform	39A	HPLE1901w Monitor	CNC144PB02	Good					1									
+116				HP Color Laser jet CM2320nf MFP	CNFTD1D276	Good							1							
+117				Hp La901E	3CQ143BIRF	Good				1										
+118				Canon Image runner 2545I	(21)04H111005032	Faulty												1		
+119		Toyiba Abbul-Hamid	39A	HP Pavilion (all-in-one)	8CC6350S3N	Good	2017	1												
+120				UPS(APC)	3S1622X02520										1					
+121		Basha Mustapha	39A	HP Pavilion (all-in-one)	8CC6180FH2	Good	2017	1												
+122				HP Color Laserjet M553	VPBNHDG2JV	Good	2017					1								
+123		Assigned No. 5661		Polycom IP phone VVX201	64167F8027A6	Good	2017												1	
+124				UPS(APC)	3S1622X01878										1					
+125		Nelson Osae	39B	Hp La901W monitor	CNC144PBCN	Good					1									
+126				Hp La901E	CNC144PBD1	Good				1								1		
+127				Hp Compaq 8200 Elite System	CZC2099Q31	faulty				1										
+128				Hp Compaq 8200 Elite System	CZC2099Q3T	faulty				1										
+129				Hp Scanjet 5590	CN566XH08J	FAULTY								1						
+130				Hp Laserjet M551	CNBTD4D359	FAULTY						1								
+131				Hp Laserjet 500 Color	CNBTD4B358	FAULTY						1								
+132				HP Color Laserjet Ent M553	JPBVHDG2JW	Good	2017					1								
+133				Hp Scanjet 5590	CN61AA106M	Good	2017							1						
+134		Assigned No. 5638		Polycom IP phone VVX201	64167F803F34	Good	2017												1	
+135		Rebecca Okai	38	HP LE1901w Monitor	CNC144PB03	Good						1								
+136				HP Compaq 8200 Elite system unit	CZC2099Q3Y	Good				1										
+137				HP Pavilion (all-in-one)	8CC63711CVF	Good	2017	1												
+138				Hp Scanjet 5590	CNC61AA106R	Good	2017							1						
+139		Victor Adadjie	38	HP Color Laserjet Ent M553	JPBXJ6J31D	Good	2017					1								
+140				Hp Scanjet 5590	CN61AA106J	Good	2017							1						
+141																				
+142		Rack Wired switch/E-Transform	38	Huawei 												3				
+143				UPS (APC)	3S1622X01887										1					
+144		Judith Kponu	40	Lenovo Monitor	V3A09162580-AF1	Good	2014				1									
+145				Lenovo Thinkcenter system unit	PBPYEPT	Good	2014			1										
+146				HP Laserjet P2055dn	CNCKJ90018	Good							1							
+147				HP Monitor	CNC144P9K2	GOOD					1									
+148		Assigned No. 5670		Polycom IP phone VVX201	64167F8027A3	Good	2017												1	
+149		Yawa Haligah	41	Lenovo Monitor	V38274	Good	2014				1									
+150				Lenovo Thinkcenter system unit	PBPPYRR	Good	2014			1										
+151				HP Laserjet 1320	CNCJN53797	Good	2014						1							
+152		Assigned No. 5654		huawei  IP Phone MC850	101B543DD1BF	Good	2018												1	
+153																				
+154		IT	17	HP LE1901W 	3CQ143B2XT	Good					1									
+155				Lenovo Thinkcenter system unit	PBPRAZD	Good	2014			1										
+156				HP Laser jet 1536dnf MFP	CNF8F7190B	Faulty	2014						1							
+157		Yahaya Daudi	17	HP LE 1901W	3CQ1082D0	Good					1									
+158				HP Compaq 8000	CZC1184QVM	Good				1										
+159				HP Laserjet P3015	VNBQDIDITV	Good						1								
+160		Assigned No. 5606		Polycom IP phone VVX201	64167F8027A8	Good	2017												1	
+161				UPS (APC)	3B1140X10619	Good	2014								1					
+162		Adwoa Assan	28	Hp Compaq Pro 2000	SGHO26Q9HV	Good				1										
+163				Hp LE185w	CNC015PY71	Good					1									
+164		Grace Semehah 	10	lenovo Thinkcentre 	PBPRBBD	Good	2014			1										
+165				lenovo Monitor 	V3A1352	Good	2014				1									
+166				Color laserjet 2605dn	CNCW68BL24	Good							1							
+167		Assigned No. 5663		Polycom IP phone VVX201	64167F8027BD	Good	2017												1	
+168				UPS (Powerware)	A0562-WORN OUT										1					
+169		Naa Korkoi Essah	42	Lenovo Thinkcenter system unit	PBPRAMY	Good	2014			1										
+170				lenovo Monitor 	V394992	Good	2014				1									
+171				HP Laser jet 1536dnf MFP	CNF8F719K5	Good	2014						1							
+172		Assigned No. 5682		Polycom IP phone VVX201	64167F80281B	Good	2017												1	
+173		Wireless Switch	 														1			
+174				Huawei Wired Switch												2				
+175																				
+176		Fifth Floor East Wing																		
+177		Daniel Ampiaw	44	lenovo Monitor	V3A1466	Good	2014				1									
+178				Lenovo Thinkcenter system unit	PBPRBFP	Good	2014			1										
+179				HP laserjet 1536dnf 	CNF8F79J5	FAULTY	2014						1							
+180		Network		Huawei Wired Switch												2				
+181		Assigned No 5667		Polycom IP phone VVX201	64167F800D45	Good	2017												1	
+182		Juliana Thompson	45	Hp Compaq pro 630 MT	6CR4103964	Good	2016			1										
+183				Hp pro display	6CM40422TJ	Good	2016				1									
+184		Assigned No 5660		Polycom IP phone VVX201	64167F8027A4	Good	2017												1	
+185		Accounts		HP Pavilion (all-in-one)	8CC61808L5	Good	2017	1												
+186				UPS (APC)	3S1622X01953										1					
+187				UPS (APC)	3B1140X10619										1					
+188		Genevieve Clottey	47	Photocopier Canon Image Runner 2520	FWG39275	Good												1		
+189				HP Pavilion (all-in-one)	8CC631D34	Good	2017	1												
+190				UPS (APC)	3S1622X01735										1					
+191				UPS (APC)	3S1622X01926										1					
+192		Ernest Boye	47	HP Laser jet 500 Color M551	CNBTD4B355	Good						1								
+193				HP Pavilion (all-in-one)	8CC6180DLX	Good	2017	1												
+194		Assigned No 5662		Polycom IP phone VVX201	64167F803F54	Good	2017												1	
+195				HP W1972a Monitor	6CM3211P9W	Good					1									
+196				UPS (APC)	3S1622X01920										1					
+197				UPS (APC)	3S1622X05123										1					
+198		Celestine Patience Smith	47B	Hp laserjet 500 M551	CNCBCD4B355	Good						1								
+199				Hp scanjet N6310	CN24BDFO41	Good								1						
+200				HP Pavilion (all-in-one)	8CC6350H61	Good	2017	1		1										
+201		Assigned No 5665		Polycom IP phone VVX201	64167F803EDC	Good	2017												1	
+202		NO USER		HP Pavilion (all-in-one)	8CC6360DZ5	Good	2017	1												
+203																				
+204		Wireless															1			
+205		Network / Accounts Secretariat	47B	Huawei Wired Switches												1				
+206		Fifth Floor South Wing																		
+207		Nicholas Amegbletor	26A	Lenovo Monitor	V3A2705	Good	2014				1									
+208				Lenovo Thinkcenter system unit	PBPYBBY	Good	2014			1										
+209				HP LCD 19 Screen 	CNC015PY7L	Good					1									
+210				Lenovo Thinkcenter system unit	PBPRBFN	Good	2014			1										
+211				HP Laser jet P2055x	CNCKJ90017	Good							1							
+212				Canon IR2020	NCBO3949	Good												1		
+213		Assigned No. 5664 		Polycom IP phone VVX201	64167F803EB8	Good	2017												1	
+214		Godfred Mordey	26B	Fujitsu	YKMO26748	Good			1											
+215		Assigned No 5668		Polycom IP phone VVX201	64167F803FAA	Good	2017												1	
+216		Nuhu Mahama	27	Lenovo Monitor	V394808	Good	2014				1									
+217				Lenovo Thinkcenter system unit	PBPYEKY	good	2014			1										
+218				Lenovo Thinkcenter system unit	PBPRBAZ	Good	2014			1										
+219				HP Laser jet 1536dnf MFP	CNF8F719JJ	Good	2014					1								
+220		Assigned No 5612		Polycom IP phone VVX201	64167F803EC2	Good	2017												1	
+221				UPS(Powerware)	110514E10000N02281										1					
+222		Alfred Nortey	25	HP 202 GT System Unit	6CR42155YM	Good	2018				1									
+223				HP V197 Monitor	3CQ6400QJY	Good	2018			1										
+224																				
+225																				
+226		Austin Hesse	28	Lenovo Monitor	V394778	Good	2014				1									
+227				Lenovo Thinkcenter system unit	PBREVAX	Good	2014			1										
+228				HP Laser jet 5200tn	CNBXB10797	Good					1									
+229				UPS(Powerware)	21A0262-WORN OUT										1					
+230		Rhoda Gavor	29	Lenovo Monitor	V3A24182580-AF1	Good	2014				1									
+231				Lenovo Thinkcenter system unit	PBREVBA	Good	2014			1										
+232				fujitsu	CNF8F7F2CL	Good	2014						1							
+233		Assigned No. 5615		Polycom IP phone VVX201		Good	2018													
+234		Esther Annor	30A	Hp System Unit	CZC202D7G8	Good	2014				1									
+235				HP LE1901W Monitor	3CQ143B364	Good	2014			1										
+236																				
+237		Assigned No. 5666		Polycom IP phone VVX201	64167F802886	Good	2017												1	
+238		Account Office		Lenovo Monitor	V394823	Good	2014				1									
+239				HP Scan jet 5590	CNFSF01468	Good								1						
+240				HP Color Laser jet CP 2025	CNFSFQ1468	Good							1							
+241																				
+242				UPS(APC)	3B1140X10631										1					
+243		Eernestina O. Djanetey	30B	HP Pavilion (all-in-one)	8CC6180FJN	Good	2017	1		1										
+244				HP envy laptop	8CG70603DV	Good	2017		1											
+245		Assigned No. 5616		Polycom IP phone VVX201															1	
+246				UPS(APC)	3S1622X01949										1					
+247		Osman Abdul-Somed	31	HP LE1901W Monitor	3CQ143B1W2	Good					1									
+248				Lenovo System Unit	PBPYDAW	Good	2014			1										
+249				HP Laser jet 1536dnf MFP	CNF8F71981	Good	2014						1							
+250		Jemima Offin	31	HP S2031a Monitor	3CQ04813DM	Good					1									
+251				Lenovo Thinkcenter system unit	PBREDVZ	Good	2014			1			1							
+252		Ebenezer Amamoo	31	HP 202 G1 System Unit	6CR42155VK	Good				1										
+253				HP v197 Monitor	3CQ6402C68	Good	2017				1									
+254																				
+255				HP laser jet Pro 400 m401dw	VWC3707340	Good							1							
+256		Yakubu Abdul Kafaru	31	Lenovo Monitor	VIYCK662580-AF1	Good	2014				1									
+257				HP Laser jet P2055dn	CNC1C22509	Good				1										
+258				Lenovo Thinkcenter system unit	PBREVDH	Good	2014				1									
+259				Canon Image runner 2202n	(21)QMV04855	Good												1		
+260		Network	31	Wireless													1			
+261		Network	31	Huawei Wired Switch												2				
+262		Assigned No. 5678		Polycom IP phone VVX201	64167F80289C	Good	2017												1	
+263		Ewurafua Pratt	32	Lenovo Monitor	V3A1479	Good	2014				1									
+264				Lenovo Thinkcenter system unit	PBRETVC	Good	2014			1										
+265				HP Laser jet 1536dnf MFP	CNF8F7198N	Good	2014						1							
+266		Assigned No. 5673		Polycom IP phone VVX201	64167F8028D8	Good	2017												1	
+267		Gloria Adjasah	32	HP 290 G1 MT System Unit	4CE73750ZH	Good 	2018			1										
+268				HP V197 Monitor	3CQ73207KR	Good	2018				1									
+269		Velma Bampoe	32	Lenovo Monitor	V3A27232580-AF1	good	2014				1									
+270				Lenovo Thinkcenter system unit	PBPYEHG	Good	2014			1										
+271																				
+272																				
+273		Nana KESSEWA Ntim	32	HP 290 G1 MT System Unit	4CE73850KW	Good 	2018			1										
+274				HP V197 Monitor	3CQ7340TGM	Good	2018				1									
+275		Janet Gyamfi	31	HP P6250T	MXY9440213	Good	2014			1										
+276				Lenovo Monitor	V394702	Good	2014				1									
+277																				
+278		Abena Afriyie Appiah	32	HP 290 G1 MT System Unit	4CE73850Q1	Good 	2018			1										
+279				HP V197 Monitor	3CQ7340V1G	Good	2018				1									
+280		Kwasi Ansah Amadi	31	Lenovo Monitor	V3A2704	Good	2014				1									
+281				Lenovo Thinkcenter system unit	PBYEPT	Good	2014			1										
+282				HP Laser jet 1536dnf MFP	CNF8F7197M	Good	2014						1							
+283		Nana Abena Ampomah	33	HPV197 Monitor	3CQ6430263	GOOD	2017				1									
+284				HP system unit	CZC7058NF8	Good	2017			1										
+285				HP laserjet Pro 400	VNC4L25074	GOOD	2017					1								
+286		Raliatu Salam	33	HP Pro system unit	CZC7058BYR	Good	2017			1										
+287				HPV197 Monitor	3CQ64310PR	GOOD	2017				1									
+288		Zeala Okyere	40	HP 202 G1 MT	6CR4215669	Good				1										
+289				HP V197 Monitor	3CQ6400QJN	Good					1									
+290		Assigned No 5675		Polycom IP Phone VVX201	64167F803E9A	Good	2017												1	
+291		Network		Wireless													1			
+292																				
+293		Cyber Security 	43A																	
+294		Assigned No. 5687		Polycom IP phone VVX201	64167F802879	Good 	2017												1	
+295		Antwi Bosiako Samuel	43B																	
+296		Ground floor Reception																		
+297		Assigned No 5685		Polycom IP phone VVX201	64167F802831	Good	2017												1	
+298		Drivers Unit																		
+299		Assigned No. 5669		Polycom IP phone VVX201	64167F80287D	Good	2017												1	
+300				Total																
+301																				
+302				Equipment type	Serial number  / Emboss	Condition /Remarks	Year of Purchase	12	2	54	55	17	23	14	19	15	6	6	38	
+303																				
+304		User name	 Room No						 Laptop	System Unit	 Monitor	Network Printer	MFP Printer	Scanner	UPS	Wired Switches	Wireless Switches 	Photocopier	IP Phones	
+305					         MOC 2017 FOURTH QUARTER ICT ASSET SUMMARY															
+306				Type of Equipment	Working	Faulty	DeCommission		Total											
+307				System Unit	54		0		54											
+308				 Monitor	55		0		55											
+309				All-In-One PC	12		0		10											
+310				Network Printer	17		0		17											
+311				MFP Printer	23		0		23											
+312				Scanner	14		0		14											
+313				UPS	19		0		19											
+314				Wired Switches	15		0		15											
+315				Wireless Switches 	6		0		6											
+316				Photocopier	6				6											
+317				IP Phones	39				39											
+318																				
+319																				
+320																				
+321																				
+322																				
+323																				
+324																				
+325																				
+326																				
+327																				
+328																				
+329																				
+330																				
+331																				
+332																				
+333																				
+334																				
+335																				
+336																				
+337																				
+338																				
+339																				
+340																				
+341																				
+342																				
+343																				
+344																				
+345																				
+346																				
+347																				
+348																				
+349																				
+350																				
+351																				
+352																				
+353																				
+354																				
+355																				
+356																				
+357																				
+358																				
+359																				
+360																				
+361																				
+362																				
+363																				
+364																				
+365																				
+366																				
+367																				
+368																				
+369																				
+370																				
+371																				
+372																				
+373																				
+374																				
+375																				
+376																				
+377																				
+378																				
+379																				
+380																				
+381																				
+382																				
+383																				
+384																				
+385																				
+386																				
+387																				
+388																				
+389																				
+390																				
+391																				
+392																				
+393																				
+394																				
+395																				
+396																				
+397																				
+398																				
+399																				
+400																				
+401																				
+402																				
+403																				
+404																				
+405																				
+406																				
+407																				
+408																				
+409																				
+410																				
+411																				
+412																				
+413																				
+414																				
+415																				
+416																				
+417																				
+418																				
+419																				
+420																				
+421																				
+422																				
+423																				
+424																				
+425																				
+426																				
+427																				
+428																				
+429																				
+430																				
+431																				
+432																				
+433																				
+434																				
+435																				
+436																				
+437																				
+438																				
+439																				
+440																				
+441																				
+442																				
+443																				
+444																				
+445																				
+446																				
+447																				
+448																				
+449																				
+450																				
+451																				
+452																				
+453																				
+454																				
+455																				
+456																				
+457																				
+458																				
+459																				
+460																				
+461																				
+462																				
+463																				
+464																				
+465																				
+466																				
+467																				
+468																				
+469																				
+470																				
+471																				
+472																				
+473																				
+474																				
+475																				
+476																				
+477																				
+478																				
+479																				
+480																				
+481																				
+482																				
+483																				
+484																				
+485																				
+486																				
+487																				
+488																				
+489																				
+490																				
+491																				
+492																				
+493																				
+494																				
+495																				
+496																				
+497																				
+498																				
+499																				
+500																				
+501																				
+502																				
+503																				
+504																				
+505																				
+506																				
+507																				
+508																				
+509																				
+510																				
+511																				
+512																				
+513																				
+514																				
+515																				
+516																				
+517																				
+518																				
+519																				
+520																				
+521																				
+522																				
+523																				
+524																				
+525																				
+526																				
+527																				
+528																				
+529																				
+530																				
+531																				
+532																				
+533																				
+534																				
+535																				
+536																				
+537																				
+538																				
+539																				
+540																				
+541																				
+542																				
+543																				
+544																				
+545																				
+546																				
+547																				
+548																				
+549																				
+550																				
+551																				
+552																				
+553																				
+554																				
+555																				
+556																				
+557																				
+558																				
+559																				
+560																				
+561																				
+562																				
+563																				
+564																				
+565																				
+566																				
+567																				
+568																				
+569																				
+570																				
+571																				
+572																				
+573																				
+574																				
+575																				
+576																				
+577																				
+578																				
+579																				
+580																				
+581																				
+582																				
+583																				
+584																				
+585																				
+586																				
+587																				
+588																				
+589																				
+590																				
+591																				
+592																				
+593																				
+594																				
+595																				
+596																				
+597																				
+598																				
+599																				
+600																				
+601																				
+602																				
+603																				
+604																				
+605																				
+606																				
+607																				
+608																				
+609																				
+610																				
+611																				
+612																				
+613																				
+614																				
+615																				
+616																				
+617																				
+618																				
+619																				
+620																				
+621																				
+622																				
+623																				
+624																				
+625																				
+626																				
+627																				
+628																				
+629																				
+630																				
+631																				
+632																				
+633																				
+634																				
+635																				
+636																				
+637																				
+638																				
+639																				
+640																				
+641																				
+642																				
+643																				
+644																				
+645																				
+646																				
+647																				
+648																				
+649																				
+650																				
+651																				
+652																				
+653																				
+654																				
+655																				
+656																				
+657																				
+658																				
+659																				
+660																				
+661																				
+662																				
+663																				
+664																				
+665																				
+666																				
+667																				
+668																				
+669																				
+670																				
+671																				
+672																				
+673																				
+674																				
+675																				
+676																				
+677																				
+678																				
+679																				
+680																				
+681																				
+682																				
+683																				
+684																				
+685																				
+686																				
+687																				
+688																				
+689																				
+690																				
+691																				
+692																				
+693																				
+694																				
+695																				
+696																				
+697																				
+698																				
+699																				
+700																				
+701																				
+702																				
+703																				
+704																				
+705																				
+706																				
+707																				
+708																				
